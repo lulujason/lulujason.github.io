@@ -1,0 +1,68 @@
+---
+title: "Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: darkly
+---
+Haitian Huang         86-13124800752| jasonhht@163.com
+
+EDUCATION	
+
+University of Washington - Seattle
+
+Major: Mathematics, Bachelor of Arts Degree Obtained                                                                
+GPA:3.45/4.0, Dean’s List awarded for six times	
+
+PRACTICAL EXPERIENCE 
+
+Sinosoft Co., Ltd.  (Full-Time Employment),Beijing, China
+
+Data Analyst                                                                                                                                   
+●	Company Profile: High-tech enterprise specialized in providing computer software development, application and services with research support from Chinese Academy of Sciences;
+
+●	Project 1Biometric System Development of Insurance Company (tool: Python)
+
+- Extracted feature data of image segmentation models of breeding tables built by modelers; 
+
+- Conducted correlation analysis of extracted data and feature dimension reduction based on analysis result;
+
+- Developed conversion model between the projected area and the weight of breeding object for subsequent modelers;
+
+- Built foundation to realize automatic weight recognition of breeding objects with computer vision techniques
+
+●	Project 2 Development of Medical Insurance Business Analysis System (tools: Python, Kettle, MySQL, Neo4j) 
+
+- Extracted historical claim data by MySQL and conducted data exploration, cleaning and processing;
+
+- Reconstructed medical insurance data accumulated over the years with knowledge graph techniques;
+
+- Built graph database covering full process data of medical insurance for subsequent analysis of symptoms, treatment cycles, medication and insurance compensation by Neo4j.
+
+●	Project 3 Claim Audit System Development of Property Insurance Company (tools: Python & MySQL)  
+
+- Extracted forecast result data of the forecast analysis model in the past year by MySQL; 
+
+- Analyzed the model performance and provided suggestion for model optimization; 
+
+- Predicted whether the claims were fraud cases based on motor vehicle insurance underwriting and claim data
+
+PROJECT
+
+Intervention Policy Effectiveness Evaluation by Data Analysis of COVID-19 Cases in China  
+
+- Attended the Regression course offered by Prof. Yang Li from Remin University of China 
+
+- Analyzed factors influencing effectiveness of intervention policies by Chinese government
+
+- Conducted data analysis through Subplex and Nelder-Mead algorithms for compartment model
+optimization       
+
+SKILLS	
+
+Computer Skills: Proficient in Linux, Python, Java, MySQL, Neo4j, Pytorch
+
+Languages: Chinese (Native); English (Proficient); Japanese (Intermediate)  
+
+Interests: Basketball, table tennis, volleyball, harmonica, swimming, painting, art design
