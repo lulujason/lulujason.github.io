@@ -16,7 +16,15 @@ Column {data-width=650}
 ### Chart A
 
 ```{r}
-
+# Number of items ordered in each department
+```{r}
+instacart |> 
+  count(department) |> 
+  mutate(department = fct_reorder(department, n)) |> 
+  plot_ly(
+    x = ~department, y = ~n, type = "scatter", mode = "markers",
+    color = ~department,  alpha = 0.5)
+```
 ```
 
 Column {data-width=350}
