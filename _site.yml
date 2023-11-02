@@ -3,10 +3,12 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "About"
-      href: about.html
+    - text: 'dashboard'
+      href: dashboard.html
+    - text: "Resume"
+      href: resume.html
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      href: mailto:<hhtjason@sina.com>
     - icon: fa-github fa-lg
       href: http://github.com/lulujason/
 output:
